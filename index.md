@@ -1,8 +1,8 @@
 [Home](.) | [Books](books)
 
-<img align="right" width="190" height="190" src="photo.jpg">
-
 [LinkedIn](https://linkedin.com/in/wangchiahung) | [Contact](https://robotlab.csie.ntu.edu.tw/my-account/wang_chia_hung)
+
+<img align="right" width="190" height="190" src="photo.jpg">
 
 ## Bio
 
