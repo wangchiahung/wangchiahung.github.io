@@ -1,6 +1,11 @@
 [Home](.) | [Books](books)
 
+<img align="right" width="190" height="190" src="photo.jpg">
+
+[LinkedIn](https://linkedin.com/in/wangchiahung) | [Contact](https://robotlab.csie.ntu.edu.tw/my-account/wang_chia_hung)
+
 ## Bio
+
 Wang, Chia-Hung received the B.S. and  B.F. degrees in the Department of Electrical Engineering from National Taiwan University of Science and Technology, Taipei, Taiwan, in 2018. He is currently pursuing the M.S. degree in the Department of Computer Science and Information Engineering from National Taiwan University, Taipei, Taiwan. His research interests include deep learning and computer vision.
 
 ## Education
