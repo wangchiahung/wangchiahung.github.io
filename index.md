@@ -13,6 +13,14 @@ Wang, Chia-Hung received the B.S. and  B.F. degrees in the Department of Electri
 - Bachelor of Science, [Department of Electrical Engineering](https://www.ee.ntust.edu.tw), [College of Electrical Engineering and Computer Science](https://www.ceecs.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
 - Bachelor of Finance, [Bachelor Degree Program of Finance](https://www.fn.ntust.edu.tw), [School of Management](https://www.management.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
 - Minor in the [Department of Business Administration](https://www.ba.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
+## Work Experience
+1. Assistant, Taichung Pei Hsin Maker Education and Technology Center, 2018-09/2019-07
+1. Intern, AAEON Technology Inc., 2018-07/2018-08
+1. Intern, HIWIN Technologies Corp., 2015-03/2015-07
+
+## Certificates
+1. CompTIA Strata IT Fundamentals, 2015-05-17
+1. Certificate of Automation Engineer, TAIROA, 2015-01-10
 
 ## Awards
 1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2018-10-05
