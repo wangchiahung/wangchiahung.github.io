@@ -24,6 +24,9 @@ Wang, Chia-Hung received the B.S. and  B.F. degrees in the Department of Electri
 - 65.99% mAP for multi-class and multi-difficulty, which is state-of-the-art for published methods.
 - World’s 1st place on the leaderboard in the pedestrian class.
 
+<img align="right" src="rank.png">
+<img align="right" src="006813_3dbox.jpg">
+
 ## Work Experience
 1. Assistant, Taichung Pei Hsin Maker Education and Technology Center, 2018-09/2019-07
 1. Intern, AAEON Technology Inc., 2018-07/2018-08
