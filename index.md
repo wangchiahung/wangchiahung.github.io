@@ -1,6 +1,6 @@
 [Home](.) | [Books](books)
 
-[LinkedIn](https://linkedin.com/in/wangchiahung) | [Contact](https://robotlab.csie.ntu.edu.tw/my-account/wang_chia_hung)
+[LinkedIn](https://linkedin.com/in/wangchiahung) | [Contact](mailto:ntu@chiahung.wang)
 
 <img align="right" width="190" height="190" src="photo.jpg">
 
@@ -18,6 +18,11 @@ Wang, Chia-Hung received the B.S. and  B.F. degrees in the Department of Electri
 3D on-road object detection for autonomous driving
 - Sensor fusion: LiDAR, RGB camera, radar
 - Tools: PyTorch, Python
+
+[KITTI 3D Object Detection Evaluation](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
+- Our [VPFNet](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=145d49cc1c4e036e3dfc7d56ce6c69d780b16d0b) was evaluated on 2021-06-20 on the official testing set whose labels are unpublic.
+- 65.99% mAP for multi-class and multi-difficulty, which is state-of-the-art for published methods.
+- World’s 1st place on the leaderboard in the pedestrian class.
 
 ## Work Experience
 1. Assistant, Taichung Pei Hsin Maker Education and Technology Center, 2018-09/2019-07
