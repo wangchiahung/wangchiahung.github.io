@@ -40,11 +40,11 @@ Wang, Chia-Hung received the B.S. and  B.F. degrees in the Department of Electri
 
 ## Awards
 1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2018-10-05
-1. 佳作, 2018第十四屆全國電子設計創意競賽, 國立高雄科技大學電子工程系, 2018-04-14
+1. Honorable Mention, National Electronic Design Creative Competition, 2018-04-14
 1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2017-03-17
 1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2016-10-13
-1. 優異, 105年北區技專校院教學資源中心《計算機概論》第六次會考, 北區技專校院教學資源中心, 2016-06-03
+1. Merit award, General Examination of Introduction to Computer, 2016-06-03
 1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2016-03-21
-1. 第1名, 電腦修護, 103學年度全國高級中等學校學生技藝競賽, 教育部, 2014-11-28
-1. 第1名, 第十屆華佗盃網路解疑技能競賽, Cisco Networking Academy, 2014-08-22
-1. 第3名, 資訊與網路技術, 第44屆全國技能競賽中區分區技能競賽, Ministry of Labor, 2014-04-27
+1. First place, Computer Maintainance, National High School Skills Competition, Ministry of Education, 2014-11-28
+1. First place, Network Diagnosis Skills Competition, Cisco Networking Academy, 2014-08-22
+1. Third place, IT Network Systems Administration, Ministry of Labor, 2014-04-27
