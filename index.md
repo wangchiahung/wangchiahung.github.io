@@ -23,7 +23,7 @@ Wang, Chia-Hung received the B.S. and  B.F. degrees in the Department of Electri
 
 [KITTI 3D Object Detection Evaluation](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
 - Our [VPFNet](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=145d49cc1c4e036e3dfc7d56ce6c69d780b16d0b) was evaluated on 2021-06-20 on the official testing set whose labels are unpublic.
-- 65.99% mAP for multi-class and multi-difficulty, which is state-of-the-art for published methods.
+- 65.99% mAP for multi-class and multi-difficulty, which is state-of-the-art compared to all published methods.
 - World’s 1st place on the leaderboard in the pedestrian class.
 
 <img align="right" src="rank.png">
