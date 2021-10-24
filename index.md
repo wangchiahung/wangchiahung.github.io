@@ -28,6 +28,7 @@ Wang, Chia-Hung received a B.S. degree in Electrical Engineering and a B.F. degr
 <img align="right" src="006813_3dbox.jpg">
 
 ## Work Experience
+1. Deep Learning Algorithm Engineer, AutoX Inc., 2021-10/
 1. Assistant, Taichung Pei Hsin Maker Education and Technology Center, 2018-09/2019-07
 1. Intern, AAEON Technology Inc., 2018-07/2018-08
 1. Intern, HIWIN Technologies Corp., 2015-03/2015-07
