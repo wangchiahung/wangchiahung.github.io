@@ -1,6 +1,6 @@
 [Home](.) | [Books](books)
 
-[LinkedIn](https://linkedin.com/in/wangchiahung) | [Contact](mailto:contact@chiahung.wang)
+[LinkedIn](https://linkedin.com/in/chiahung) | [Contact](mailto:contact@chiahung.wang)
 
 <img align="right" width="190" height="190" src="photo.jpg">
 
