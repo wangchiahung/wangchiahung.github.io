@@ -1,8 +1,8 @@
+<img align="right" width="205" height="274" src="photo.jpg">
+
 [Home](.) | [Books](books)
 
 [LinkedIn](https://linkedin.com/in/chiahung) | [Contact](mailto:contact@chiahung.wang)
-
-<img align="right" width="205" height="274" src="photo.jpg">
 
 ## Bio
 
