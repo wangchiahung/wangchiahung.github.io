@@ -1,7 +1,7 @@
 [Home](.) | [Books](books)
 
 [LinkedIn](https://linkedin.com/in/chiahung) | [Contact](mailto:contact@chiahung.wang)
-<img align="right" width="184" height="247" src="photo.jpg">
+<img align="right" width="164" height="247" src="photo.jpg">
 
 ## Biography
 
@@ -12,6 +12,20 @@ Chia-Hung obtained his B.S. in Electrical Engineering and B.F. in Finance from N
 - Bachelor of Science, [Department of Electrical Engineering](https://www.ee.ntust.edu.tw), [College of Electrical Engineering and Computer Science](https://www.ceecs.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
 - Bachelor of Finance, [Bachelor Degree Program of Finance](https://www.fn.ntust.edu.tw), [School of Management](https://www.management.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
 - Minor in the [Department of Business Administration](https://www.ba.ntust.edu.tw), [School of Management](https://www.management.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
+
+## Work Experience
+1. Details temporarily undisclosed, 2025-02/
+1. Multi-modal Perception Algorithm Engineer, Haomo Zhixing Technology Co. Ltd., 2023-12/2025-02
+1. Deep Learning Algorithm Engineer, AutoX Inc., 2021-10/2023-12
+1. Assistant, Taichung Pei Hsin Maker Education and Technology Center, 2018-09/2019-07
+1. Intern, AAEON Technology Inc., 2018-07/2018-08
+1. Intern, HIWIN Technologies Corp., 2015-03/2015-07
+
+## Publications
+1. Wang, C.-H., et al. "VoPiFNet: Voxel-Pixel Fusion Network for Multi-Class 3D Object Detection." IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [SCI Q1]
+1. Chen, H.-H., Wang, C.-H., et al. "A Novel Regional Fusion Network for 3D Object Detection based on RGB Images and Point Clouds." CS & IT Conference Proceedings, 2021.
+1. 劉政鑫, 王嘉鴻. 電腦硬體裝修乙級術科第二版 [Computer Maintenance, 2/e]. 碁峰資訊, 2016.
+1. 劉政鑫, 王嘉鴻. 電腦硬體裝修乙級術科 [Computer Maintenance]. 碁峰資訊, 2015.
 
 ## Research
 3D Object Detection for Autonomous Driving
@@ -26,24 +40,18 @@ Chia-Hung obtained his B.S. in Electrical Engineering and B.F. in Finance from N
 <img align="right" src="rank.png">
 <img align="right" src="006813_3dbox.jpg">
 
-## Work Experience
-1. Multi-modal Perception Algorithm Engineer, Haomo Zhixing Technology Co. Ltd., 2023-12/
-1. Deep Learning Algorithm Engineer, AutoX Inc., 2021-10/2023-12
-1. Assistant, Taichung Pei Hsin Maker Education and Technology Center, 2018-09/2019-07
-1. Intern, AAEON Technology Inc., 2018-07/2018-08
-1. Intern, HIWIN Technologies Corp., 2015-03/2015-07
 
 ## Certificates
 1. CompTIA Strata IT Fundamentals, 2015-05-17
 1. Certificate of Automation Engineer, TAIROA, 2015-01-10
 
 ## Awards
-1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2018-10-05
+1. Certificate of Achievement, National Taiwan University of Science and Technology, 2018-10-05
 1. Honorable Mention, National Electronic Design Creative Competition, 2018-04-14
-1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2017-03-17
-1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2016-10-13
+1. Certificate of Achievement, National Taiwan University of Science and Technology, 2017-03-17
+1. Certificate of Achievement, National Taiwan University of Science and Technology, 2016-10-13
 1. Merit award, General Examination of Introduction to Computer, 2016-06-03
-1. Certificate of Achievement, National Taiwan Univeristy of Science and Technology, 2016-03-21
+1. Certificate of Achievement, National Taiwan University of Science and Technology, 2016-03-21
 1. First place, Computer Maintainance, National High School Skills Competition, Ministry of Education, 2014-11-28
 1. First place, Network Diagnosis Skills Competition, Cisco Networking Academy, 2014-08-22
 1. Third place, IT Network Systems Administration, Ministry of Labor, 2014-04-27
