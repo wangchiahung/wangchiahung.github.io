@@ -1,17 +1,17 @@
 [Home](.) | [Books](books)
 
-[LinkedIn](https://linkedin.com/in/chiahung) | [Contact](mailto:contact@chiahung.wang)
-<img align="right" width="164" height="247" src="photo.jpg">
+[LinkedIn](https://linkedin.com/in/chiahung) | "contact_AT_chiahung_DOT_wang"
+<img align="right" width="150" height="226" src="photo.jpg">
 
 ## Biography
 
-Chia-Hung obtained his B.S. in Electrical Engineering and B.F. in Finance from National Taiwan University of Science and Technology in 2018, followed by an M.S. in Computer Science and Information Engineering from National Taiwan University in 2021. His academic pursuits center around artificial intelligence, deep learning and computer vision, reflecting a keen passion for advancing these fields.
+Chia-Hung obtained his B.S. in EE and B.Fin. from NTUST in 2018, followed by an M.S. in CSIE from NTU in 2021. His academic pursuits center around artificial intelligence, deep learning, and computer vision, reflecting a keen passion for advancing these fields.
 
 ## Education
-- Master of Science, [Intelligent Robot Lab](https://robotlab.csie.ntu.edu.tw), [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw), [College of Electrical Engineering and Computer Science](http://eecs.ntu.edu.tw), [National Taiwan University](https://www.ntu.edu.tw), 2019-09/2021-08
-- Bachelor of Science, [Department of Electrical Engineering](https://www.ee.ntust.edu.tw), [College of Electrical Engineering and Computer Science](https://www.ceecs.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
-- Bachelor of Finance, [Bachelor Degree Program of Finance](https://www.fn.ntust.edu.tw), [School of Management](https://www.management.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
-- Minor in the [Department of Business Administration](https://www.ba.ntust.edu.tw), [School of Management](https://www.management.ntust.edu.tw), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw), 2015-09/2018-08
+- Master of Science (M.S.), [Intelligent Robot Lab](https://robotlab.csie.ntu.edu.tw), Department of Computer Science and Information Engineering ([CSIE](https://www.csie.ntu.edu.tw)), College of Electrical Engineering and Computer Science ([EECS](http://eecs.ntu.edu.tw)), National Taiwan University ([NTU](https://www.ntu.edu.tw)), 2019-09/2021-08
+- Bachelor of Science (B.S.), Department of Electrical Engineering ([EE](https://www.ee.ntust.edu.tw)), College of Electrical Engineering and Computer Science ([EECS](https://www.ceecs.ntust.edu.tw)), National Taiwan University of Science and Technology ([NTUST](https://www.ntust.edu.tw)), 2015-09/2018-08
+- Bachelor of Finance (B.Fin.), Bachelor Degree Program of Finance ([Fin.](https://www.fn.ntust.edu.tw)), School of Management ([Mgmt.](https://www.management.ntust.edu.tw)), National Taiwan University of Science and Technology ([NTUST](https://www.ntust.edu.tw)), 2015-09/2018-08
+- Minor in Department of Business Administration ([BA](https://www.ba.ntust.edu.tw)), School of Management ([Mgmt.](https://www.management.ntust.edu.tw)), National Taiwan University of Science and Technology ([NTUST](https://www.ntust.edu.tw)), 2015-09/2018-08
 
 ## Work Experience
 1. Details temporarily undisclosed, 2025-02/
